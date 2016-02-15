@@ -1,6 +1,6 @@
 name: Sanda Haven
 favicon: null
-layout_spectrum: 0.2942042222712189
+layout_spectrum: 0.7606
 typography_spectrum: 0.8414795063436031
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#333333'
+    - '#fefefe'
+    - '#7d7d7d'
+    - '#fdfe00'
+    - '#bc1c21'
   brandStrength: 0.38102178066037595
   lightness: 0.4662263437639922
   saturation: 0.2902231637854129
